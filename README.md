@@ -1,4 +1,4 @@
-# 🚀 SafeSkill AI: Intelligent Worker Safety & Performance Monitoring System
+#  SafeSkill AI: Intelligent Worker Safety & Performance Monitoring System
 
 ## Overview
 SafeSkill AI is an advanced, centralized enterprise software platform designed to bridge the gap between factory floor security camera streams and production database records. Built to address critical manufacturing challenges, the system proactively combats unreported safety hazards (such as near-misses near forklift paths) and undetected skill drift (gradual drops in worker efficiency and rising error rates). By integrating real-time computer vision with machine learning risk analytics and agentic AI recommendations, SafeSkill AI transforms traditional factory monitoring into predictive worker support.  
